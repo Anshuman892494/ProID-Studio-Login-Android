@@ -6,7 +6,7 @@
 
 ## 📸 Screenshot
 
-![TrafficFlow Screenshot](https://github.com/Anshuman892494/TrafficFlow-Login-Android/blob/main/ScreenShot.png?raw=true)
+![TrafficFlow Screenshot]([https://github.com/Anshuman892494/TrafficFlow-Login-Android/blob/main/ScreenShot.png?raw=true](https://github.com/Anshuman892494/ProID-Studio-Login-Android/blob/main/Poster.png))
 
 ---
 
