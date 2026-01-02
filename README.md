@@ -6,7 +6,7 @@
 
 ## 📸 Screenshot
 
-![ProID Studio Screenshot](https://github.com/Anshuman892494/ProID-Studio-ID-Card-Generator/blob/main/Screenshot.png?raw=true)
+![ProID Studio Screenshot]([https://github.com/Anshuman892494/ProID-Studio-ID-Card-Generator/blob/main/Screenshot.png?raw=true](https://github.com/Anshuman892494/ProID-Studio-Login-Android/blob/main/Poster.png?raw=true))
 
 ---
 
